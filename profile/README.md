@@ -1,4 +1,4 @@
-<img src="https://www.arqora.cloud/banner.webp" alt="Arqora Cloud" width="100%" />
+<img src="https://www.arqora.cloud/tbanner.webp" alt="Arqora Cloud" width="100%" />
 
 # <img src="https://cdn.discordapp.com/emojis/1450822842055655525.webp" width="26" height="26"/> Arqora Cloud
 
