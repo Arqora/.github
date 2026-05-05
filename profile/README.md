@@ -1,67 +1,80 @@
-<img src="https://www.arqora.cloud/tbanner.webp" alt="Arqora Cloud" width="100%" />
+<img src="https://www.arqora.cloud/banner.webp" alt="Arqora" width="100%" />
 
-# <img src="https://cdn.discordapp.com/emojis/1450822842055655525.webp" width="26" height="26"/> Arqora Cloud
+# Arqora
 
-Arqora Cloud is a cloud hosting platform currently in development, focused on providing reliable **VPS** and **game server infrastructure**.
+Arqora is an independent private organization focused on building selective digital infrastructure, internal systems, and long-term software initiatives.
 
-The platform is being built with an emphasis on stability, security, and operational clarity.  
+The organization operates with a focus on stability, security, operational clarity, and deliberate public communication.
+
+Public details are intentionally limited while active systems and products remain in development.
+
+---
+
+## Current Focus
+
+Arqora is currently focused on:
+
+- Digital infrastructure systems
+- Internal software products
+- Secure operational tooling
+- Cloud and hosting-related initiatives
+- Long-term product development
+
+---
+
+## Arqora Cloud
+
+Arqora Cloud is a cloud hosting platform currently in development under Arqora.
+
+It is focused on reliable VPS and game server infrastructure, with an emphasis on stability, isolation, security, and clear operational boundaries.
+
 Public access is not yet available.
 
-A waitlist is currently open for early access.
-
----
-
-## Platform Scope
-
-Arqora Cloud is designed to support:
-
-- Virtual Private Servers for development and production workloads  
-- Game server hosting with low-latency networking  
-- Secure, isolated environments  
-- Clear usage boundaries and abuse prevention  
-
-Details will be published as the platform reaches public availability.
-
----
-
-## Current Status
-
-- Platform: **In development**  
-- Public access: **Not launched**  
-- Early access: **Waitlist open**
-
-Join the waitlist to receive updates on launch progress and availability.
+A waitlist is currently open for early access:
 
 👉 https://arqora.cloud/
 
 ---
 
-## Community & Communication
+## Status
+
+- Organization: Active
+- Platform: In development
+- Public access: Not launched
+- Early access: Waitlist open
+
+Details will be published as the platform reaches public availability.
+
+---
+
+## Communication
 
 During the pre-launch phase, communication is focused on:
-- Platform updates and status changes  
-- Early access announcements  
-- Policy and infrastructure transparency  
 
-Support channels will expand as the platform approaches launch.
+- Platform updates
+- Early access announcements
+- Security and abuse prevention
+- Operational transparency
+
+Support channels will expand as Arqora Cloud approaches launch.
 
 ---
 
 ## Contact
 
-For inquiries related to development, partnerships, or early access:
+For development, partnership, security, or early access inquiries:
 
-- General: contact@arqora.cloud  
-- Support: support@arqora.cloud  
-- Billing: billing@arqora.cloud  
-- Abuse & Security: abuse@arqora.cloud  
-
----
-
-## Operated By
-
-Arqora Cloud is built and operated by **Arqora Studio**.
+- General: contact@arqora.cloud
+- Support: support@arqora.cloud
+- Billing: billing@arqora.cloud
+- Abuse & Security: abuse@arqora.cloud
 
 ---
 
-© Arqora Studio
+## Official Website
+
+https://arqora.cloud/
+
+---
+
+© Arqora
