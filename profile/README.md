@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Arqora-Branding-Banner.png" alt="Arqora" width="100%" />
+  <img src="./assets/arqora-banner.png" alt="Arqora" width="100%" />
   <br />
   <br />
   
