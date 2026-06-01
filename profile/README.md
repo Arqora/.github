@@ -1,80 +1,48 @@
-<img src="https://www.arqora.cloud/banner.webp" alt="Arqora" width="100%" />
+<div align="center">
+  <img src="./assets/Arqora-Branding-Banner.png" alt="Arqora" width="100%" />
+  <br />
+  <br />
+  
+  <h1>Arqora</h1>
+  <p><b>Software. Systems. Experiments.</b></p>
+  
+  <br />
+</div>
 
-# Arqora
+Arqora is an independent digital organization dedicated to long-term software architecture, resilient internal systems, and infrastructure experiments. 
 
-Arqora is an independent private organization focused on building selective digital infrastructure, internal systems, and long-term software initiatives.
+Operating outside conventional product cycles, we build tools that solve complex bottlenecks—first for ourselves, and selectively for the public.
 
-The organization operates with a focus on stability, security, operational clarity, and deliberate public communication.
+<br />
 
-Public details are intentionally limited while active systems and products remain in development.
+## Work
 
----
+Arqora works across a small set of technical areas:
 
-## Current Focus
+<br />
 
-Arqora is currently focused on:
+## Repositories
 
-- Digital infrastructure systems
-- Internal software products
-- Secure operational tooling
-- Cloud and hosting-related initiatives
-- Long-term product development
+Public repositories under this organization may include active projects, experiments, documentation, or open-source tools.
 
----
+Some repositories may remain private while they are being developed, reviewed, or used internally.
 
-## Arqora Cloud
+<br />
 
-Arqora Cloud is a cloud hosting platform currently in development under Arqora.
+## Reports & Contact
 
-It is focused on reliable VPS and game server infrastructure, with an emphasis on stability, isolation, security, and clear operational boundaries.
+For inquiries, partnerships, or to report an issue, please route your communication to the appropriate channel. 
 
-Public access is not yet available.
+* **General:** [hello@arqora.be](mailto:hello@arqora.be)
+* **Abuse & Security:** [abuse@arqora.be](mailto:abuse@arqora.be)
 
-A waitlist is currently open for early access:
+**When filing a report:**
+Please include the repository name, relevant URLs, error logs, and a clear explanation of expected versus actual behavior. Visual documentation (screenshots) is highly encouraged for interface issues.
 
-👉 https://arqora.cloud/
-
----
-
-## Status
-
-- Organization: Active
-- Platform: In development
-- Public access: Not launched
-- Early access: Waitlist open
-
-Details will be published as the platform reaches public availability.
+<br />
 
 ---
 
-## Communication
-
-During the pre-launch phase, communication is focused on:
-
-- Platform updates
-- Early access announcements
-- Security and abuse prevention
-- Operational transparency
-
-Support channels will expand as Arqora Cloud approaches launch.
-
----
-
-## Contact
-
-For development, partnership, security, or early access inquiries:
-
-- General: contact@arqora.cloud
-- Support: support@arqora.cloud
-- Billing: billing@arqora.cloud
-- Abuse & Security: abuse@arqora.cloud
-
----
-
-## Official Website
-
-https://arqora.cloud/
-
----
-
-© Arqora
+<div align="center">
+  <sub>© Arqora · <a href="https://arqora.be">Website</a> · <a href="mailto:hello@arqora.be">Contact</a> · <a href="mailto:abuse@arqora.be">Abuse & Security</a></sub>
+</div>
