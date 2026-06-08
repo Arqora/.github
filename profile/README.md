@@ -4,8 +4,8 @@
   <br />
   
   <h1>Arqora</h1>
-  <p><b>Software. Systems. Experiments.</b></p>
-  
+<p> <a href="https://arqora.be">Website</a> · <a href="https://arqora.be/research">Research</a> · <a href="https://arqora.be/open-source">Open Source</a> · <a href="https://arqora.be/collaborations">Collaborations</a> </p>
+
   <br />
 </div>
 
