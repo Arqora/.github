@@ -9,9 +9,9 @@
   <br />
 </div>
 
-Arqora is an independent digital organization dedicated to long-term software architecture, resilient internal systems, and infrastructure experiments. 
+Arqora builds software, systems, and infrastructure.
 
-Operating outside conventional product cycles, we build tools that solve complex bottlenecks—first for ourselves, and selectively for the public.
+We create tools for internal use, open-source projects, and long-term experiments focused on reliability, simplicity, and practical problem solving.
 
 <br />
 
