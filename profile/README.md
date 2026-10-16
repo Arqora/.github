@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/new-banner-3000x800.png" alt="Arqora" width="100%" />
+  <img src="./assetsarqora-discord-embed.png" alt="Arqora" width="100%" />
   <br />
   <br />
 
